@@ -47,7 +47,7 @@ A comprehensive real-time earthquake monitoring system that provides interactive
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/U-C4N/earthquake-monitor
+git clone https://github.com/U-C4N/QuakeWatch
 ```
 
 2. Install dependencies:
