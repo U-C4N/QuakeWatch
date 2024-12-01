@@ -92,16 +92,11 @@ streamlit run main.py
 
 This project uses data from the United States Geological Survey (USGS) Earthquake Hazards Program. The data is fetched in real-time through their public API.
 
-## Contributing
+## Author
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- USGS for providing the earthquake data API
-- Streamlit team for the excellent framework
-- Folium contributors for the mapping capabilities
+<p align="left">
+<b>Umutcan Edizaslan:</b>
+<a href="https://github.com/U-C4N" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="TutTrue" height="30" width="40" /></a>
+<a href="https://x.com/UEdizaslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" height="30" width="40" /></a>
+<a href="https://discord.gg/2Tutcj6u" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" height="30" width="40" /></a>
+</p>
